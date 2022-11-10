@@ -1,14 +1,14 @@
 # myflutterdocs
 
-Kelebihan Flutter
-1. beautiful
-2. fast
-3. productive
-4. open source
+Flutter's Advantages
+1. Beautiful
+2. Fast
+3. Productive
+4. Open Source
 
-Hot reload, reload code changes into Virtual Machine, running rebuild() method in widget. Rebuild widget and keep last state of the apps. 
-Hot restart, reload code changes into Virtual Machine, rebuild apps from beginning and lost apps state.
-Full restart, compile code from beginning
+- Hot reload, reload code changes into Virtual Machine, running rebuild() method in widget. Rebuild widget and keep last state of the apps. 
+- Hot restart, reload code changes into Virtual Machine, rebuild apps from beginning and lost apps state.
+- Full restart, compile code from beginning
 
 ## Getting Started
 
