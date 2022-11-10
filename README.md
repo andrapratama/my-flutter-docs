@@ -1,4 +1,4 @@
-# myflutterdocs
+# my-flutter-docs
 This is my documentation of learning flutter
 
 ## Flutter's Advantages
