@@ -1,6 +1,14 @@
 # myflutterdocs
 
-A new Flutter project.
+Kelebihan Flutter
+1. beautiful
+2. fast
+3. productive
+4. open source
+
+Hot reload, reload code changes into Virtual Machine, running rebuild() method in widget. Rebuild widget and keep last state of the apps. 
+Hot restart, reload code changes into Virtual Machine, rebuild apps from beginning and lost apps state.
+Full restart, compile code from beginning
 
 ## Getting Started
 
