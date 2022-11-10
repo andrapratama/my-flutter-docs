@@ -1,7 +1,7 @@
 # myflutterdocs
 This is my documentation of learning flutter
 
-# Flutter's Advantages
+## Flutter's Advantages
 1. Beautiful
 2. Fast
 3. Productive
