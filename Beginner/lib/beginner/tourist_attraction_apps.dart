@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:myflutterdocs/beginner/main_screen.dart';
+
+import 'main_screen.dart';
 
 class TouristAttractionApps extends StatefulWidget {
   const TouristAttractionApps({Key? key}) : super(key: key);

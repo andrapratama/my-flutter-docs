@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:myflutterdocs/beginner/tourist_attraction_apps.dart';
-import 'package:myflutterdocs/component/widget/button_main_menu.dart';
+
+import 'beginner/tourist_attraction_apps.dart';
+import 'component/widget/button_main_menu.dart';
 
 void main() {
   runApp(const MyApp());
@@ -36,7 +37,8 @@ class MyHomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: const <Widget>[
             ButtonMainMenu(text: 'Beginner', widget: TouristAttractionApps()),
-            ButtonMainMenu(text: 'Intermediate', widget: TouristAttractionApps()),
+            ButtonMainMenu(
+                text: 'Intermediate', widget: TouristAttractionApps()),
             ButtonMainMenu(text: 'Advanced', widget: TouristAttractionApps()),
           ],
         ),
